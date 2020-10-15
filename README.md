@@ -1,6 +1,6 @@
 # JDita ![Version 0.1.0](https://img.shields.io/badge/version-0.1.0-blue) ![Coverage Status](https://img.shields.io/badge/coverage-94%25-grassgreen)
 
-This tool generates JSON data from XDita files
+This tool generates JDita (JSON representation of LwDita) from XDita files
 
 ---
 ## Requirements
